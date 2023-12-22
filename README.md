@@ -6,6 +6,6 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/7YVjH3dB/410754066-830495185492941-6100967838840511848-n.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.postimg.cc/7YVjH3dB/410754066-830495185492941-6100967838840511848-n.jpg" alt="project-screenshot" width="200" height="400/">
 
-<img src="https://i.postimg.cc/cCTTSmCw/410360350-712706667503493-6843620092201016498-n.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.postimg.cc/cCTTSmCw/410360350-712706667503493-6843620092201016498-n.jpg" alt="project-screenshot" width="200" height="400/">
